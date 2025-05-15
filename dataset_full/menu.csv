@@ -1,0 +1,361 @@
+date,meal,main_course
+2025-01-15,Breakfast,Poha
+2025-01-15,Lunch,Rajma Chawal
+2025-01-15,Dinner,Paneer Butter Masala
+2025-01-16,Breakfast,Pancakes
+2025-01-16,Lunch,Dal Fry
+2025-01-16,Dinner,Paneer Butter Masala
+2025-01-17,Breakfast,Poha
+2025-01-17,Lunch,Dal Fry
+2025-01-17,Dinner,Egg Curry
+2025-01-18,Breakfast,Idli‑Sambar
+2025-01-18,Lunch,Rajma Chawal
+2025-01-18,Dinner,Veg Biryani
+2025-01-19,Breakfast,Idli‑Sambar
+2025-01-19,Lunch,Rajma Chawal
+2025-01-19,Dinner,Paneer Butter Masala
+2025-01-20,Breakfast,Masala Dosa
+2025-01-20,Lunch,Veg Pulao
+2025-01-20,Dinner,Veg Biryani
+2025-01-21,Breakfast,Idli‑Sambar
+2025-01-21,Lunch,Veg Pulao
+2025-01-21,Dinner,Kofta Curry
+2025-01-22,Breakfast,Aloo Paratha
+2025-01-22,Lunch,Paneer Tikka
+2025-01-22,Dinner,Chole Bhature
+2025-01-23,Breakfast,Masala Dosa
+2025-01-23,Lunch,Dal Fry
+2025-01-23,Dinner,Veg Biryani
+2025-01-24,Breakfast,Pancakes
+2025-01-24,Lunch,Rajma Chawal
+2025-01-24,Dinner,Chole Bhature
+2025-01-25,Breakfast,Masala Dosa
+2025-01-25,Lunch,Chicken Curry
+2025-01-25,Dinner,Veg Biryani
+2025-01-26,Breakfast,Poha
+2025-01-26,Lunch,Chicken Curry
+2025-01-26,Dinner,Kofta Curry
+2025-01-27,Breakfast,Aloo Paratha
+2025-01-27,Lunch,Chicken Curry
+2025-01-27,Dinner,Egg Curry
+2025-01-28,Breakfast,Pancakes
+2025-01-28,Lunch,Dal Fry
+2025-01-28,Dinner,Egg Curry
+2025-01-29,Breakfast,Pancakes
+2025-01-29,Lunch,Paneer Tikka
+2025-01-29,Dinner,Paneer Butter Masala
+2025-01-30,Breakfast,Pancakes
+2025-01-30,Lunch,Paneer Tikka
+2025-01-30,Dinner,Paneer Butter Masala
+2025-01-31,Breakfast,Aloo Paratha
+2025-01-31,Lunch,Paneer Tikka
+2025-01-31,Dinner,Egg Curry
+2025-02-01,Breakfast,Idli‑Sambar
+2025-02-01,Lunch,Chicken Curry
+2025-02-01,Dinner,Paneer Butter Masala
+2025-02-02,Breakfast,Pancakes
+2025-02-02,Lunch,Paneer Tikka
+2025-02-02,Dinner,Veg Biryani
+2025-02-03,Breakfast,Poha
+2025-02-03,Lunch,Veg Pulao
+2025-02-03,Dinner,Egg Curry
+2025-02-04,Breakfast,Masala Dosa
+2025-02-04,Lunch,Dal Fry
+2025-02-04,Dinner,Veg Biryani
+2025-02-05,Breakfast,Aloo Paratha
+2025-02-05,Lunch,Rajma Chawal
+2025-02-05,Dinner,Veg Biryani
+2025-02-06,Breakfast,Pancakes
+2025-02-06,Lunch,Paneer Tikka
+2025-02-06,Dinner,Kofta Curry
+2025-02-07,Breakfast,Pancakes
+2025-02-07,Lunch,Dal Fry
+2025-02-07,Dinner,Chole Bhature
+2025-02-08,Breakfast,Idli‑Sambar
+2025-02-08,Lunch,Veg Pulao
+2025-02-08,Dinner,Egg Curry
+2025-02-09,Breakfast,Pancakes
+2025-02-09,Lunch,Dal Fry
+2025-02-09,Dinner,Egg Curry
+2025-02-10,Breakfast,Aloo Paratha
+2025-02-10,Lunch,Rajma Chawal
+2025-02-10,Dinner,Egg Curry
+2025-02-11,Breakfast,Masala Dosa
+2025-02-11,Lunch,Paneer Tikka
+2025-02-11,Dinner,Kofta Curry
+2025-02-12,Breakfast,Aloo Paratha
+2025-02-12,Lunch,Rajma Chawal
+2025-02-12,Dinner,Kofta Curry
+2025-02-13,Breakfast,Aloo Paratha
+2025-02-13,Lunch,Paneer Tikka
+2025-02-13,Dinner,Chole Bhature
+2025-02-14,Breakfast,Poha
+2025-02-14,Lunch,Veg Pulao
+2025-02-14,Dinner,Veg Biryani
+2025-02-15,Breakfast,Masala Dosa
+2025-02-15,Lunch,Dal Fry
+2025-02-15,Dinner,Egg Curry
+2025-02-16,Breakfast,Poha
+2025-02-16,Lunch,Chicken Curry
+2025-02-16,Dinner,Chole Bhature
+2025-02-17,Breakfast,Masala Dosa
+2025-02-17,Lunch,Paneer Tikka
+2025-02-17,Dinner,Kofta Curry
+2025-02-18,Breakfast,Idli‑Sambar
+2025-02-18,Lunch,Chicken Curry
+2025-02-18,Dinner,Chole Bhature
+2025-02-19,Breakfast,Poha
+2025-02-19,Lunch,Veg Pulao
+2025-02-19,Dinner,Veg Biryani
+2025-02-20,Breakfast,Aloo Paratha
+2025-02-20,Lunch,Rajma Chawal
+2025-02-20,Dinner,Kofta Curry
+2025-02-21,Breakfast,Aloo Paratha
+2025-02-21,Lunch,Chicken Curry
+2025-02-21,Dinner,Egg Curry
+2025-02-22,Breakfast,Masala Dosa
+2025-02-22,Lunch,Veg Pulao
+2025-02-22,Dinner,Veg Biryani
+2025-02-23,Breakfast,Aloo Paratha
+2025-02-23,Lunch,Veg Pulao
+2025-02-23,Dinner,Veg Biryani
+2025-02-24,Breakfast,Aloo Paratha
+2025-02-24,Lunch,Paneer Tikka
+2025-02-24,Dinner,Paneer Butter Masala
+2025-02-25,Breakfast,Idli‑Sambar
+2025-02-25,Lunch,Paneer Tikka
+2025-02-25,Dinner,Veg Biryani
+2025-02-26,Breakfast,Masala Dosa
+2025-02-26,Lunch,Paneer Tikka
+2025-02-26,Dinner,Kofta Curry
+2025-02-27,Breakfast,Poha
+2025-02-27,Lunch,Rajma Chawal
+2025-02-27,Dinner,Paneer Butter Masala
+2025-02-28,Breakfast,Masala Dosa
+2025-02-28,Lunch,Dal Fry
+2025-02-28,Dinner,Veg Biryani
+2025-03-01,Breakfast,Pancakes
+2025-03-01,Lunch,Rajma Chawal
+2025-03-01,Dinner,Egg Curry
+2025-03-02,Breakfast,Masala Dosa
+2025-03-02,Lunch,Rajma Chawal
+2025-03-02,Dinner,Kofta Curry
+2025-03-03,Breakfast,Masala Dosa
+2025-03-03,Lunch,Rajma Chawal
+2025-03-03,Dinner,Paneer Butter Masala
+2025-03-04,Breakfast,Masala Dosa
+2025-03-04,Lunch,Chicken Curry
+2025-03-04,Dinner,Kofta Curry
+2025-03-05,Breakfast,Poha
+2025-03-05,Lunch,Chicken Curry
+2025-03-05,Dinner,Kofta Curry
+2025-03-06,Breakfast,Idli‑Sambar
+2025-03-06,Lunch,Paneer Tikka
+2025-03-06,Dinner,Veg Biryani
+2025-03-07,Breakfast,Idli‑Sambar
+2025-03-07,Lunch,Paneer Tikka
+2025-03-07,Dinner,Veg Biryani
+2025-03-08,Breakfast,Poha
+2025-03-08,Lunch,Chicken Curry
+2025-03-08,Dinner,Veg Biryani
+2025-03-09,Breakfast,Idli‑Sambar
+2025-03-09,Lunch,Chicken Curry
+2025-03-09,Dinner,Chole Bhature
+2025-03-10,Breakfast,Masala Dosa
+2025-03-10,Lunch,Rajma Chawal
+2025-03-10,Dinner,Paneer Butter Masala
+2025-03-11,Breakfast,Idli‑Sambar
+2025-03-11,Lunch,Paneer Tikka
+2025-03-11,Dinner,Paneer Butter Masala
+2025-03-12,Breakfast,Idli‑Sambar
+2025-03-12,Lunch,Rajma Chawal
+2025-03-12,Dinner,Chole Bhature
+2025-03-13,Breakfast,Aloo Paratha
+2025-03-13,Lunch,Paneer Tikka
+2025-03-13,Dinner,Kofta Curry
+2025-03-14,Breakfast,Pancakes
+2025-03-14,Lunch,Dal Fry
+2025-03-14,Dinner,Kofta Curry
+2025-03-15,Breakfast,Poha
+2025-03-15,Lunch,Veg Pulao
+2025-03-15,Dinner,Chole Bhature
+2025-03-16,Breakfast,Poha
+2025-03-16,Lunch,Rajma Chawal
+2025-03-16,Dinner,Egg Curry
+2025-03-17,Breakfast,Poha
+2025-03-17,Lunch,Chicken Curry
+2025-03-17,Dinner,Chole Bhature
+2025-03-18,Breakfast,Poha
+2025-03-18,Lunch,Chicken Curry
+2025-03-18,Dinner,Paneer Butter Masala
+2025-03-19,Breakfast,Masala Dosa
+2025-03-19,Lunch,Chicken Curry
+2025-03-19,Dinner,Chole Bhature
+2025-03-20,Breakfast,Idli‑Sambar
+2025-03-20,Lunch,Paneer Tikka
+2025-03-20,Dinner,Egg Curry
+2025-03-21,Breakfast,Masala Dosa
+2025-03-21,Lunch,Rajma Chawal
+2025-03-21,Dinner,Paneer Butter Masala
+2025-03-22,Breakfast,Idli‑Sambar
+2025-03-22,Lunch,Paneer Tikka
+2025-03-22,Dinner,Veg Biryani
+2025-03-23,Breakfast,Aloo Paratha
+2025-03-23,Lunch,Veg Pulao
+2025-03-23,Dinner,Chole Bhature
+2025-03-24,Breakfast,Masala Dosa
+2025-03-24,Lunch,Veg Pulao
+2025-03-24,Dinner,Kofta Curry
+2025-03-25,Breakfast,Aloo Paratha
+2025-03-25,Lunch,Dal Fry
+2025-03-25,Dinner,Kofta Curry
+2025-03-26,Breakfast,Masala Dosa
+2025-03-26,Lunch,Rajma Chawal
+2025-03-26,Dinner,Veg Biryani
+2025-03-27,Breakfast,Masala Dosa
+2025-03-27,Lunch,Paneer Tikka
+2025-03-27,Dinner,Veg Biryani
+2025-03-28,Breakfast,Aloo Paratha
+2025-03-28,Lunch,Rajma Chawal
+2025-03-28,Dinner,Paneer Butter Masala
+2025-03-29,Breakfast,Pancakes
+2025-03-29,Lunch,Paneer Tikka
+2025-03-29,Dinner,Chole Bhature
+2025-03-30,Breakfast,Idli‑Sambar
+2025-03-30,Lunch,Dal Fry
+2025-03-30,Dinner,Paneer Butter Masala
+2025-03-31,Breakfast,Poha
+2025-03-31,Lunch,Dal Fry
+2025-03-31,Dinner,Kofta Curry
+2025-04-01,Breakfast,Poha
+2025-04-01,Lunch,Rajma Chawal
+2025-04-01,Dinner,Egg Curry
+2025-04-02,Breakfast,Poha
+2025-04-02,Lunch,Veg Pulao
+2025-04-02,Dinner,Chole Bhature
+2025-04-03,Breakfast,Aloo Paratha
+2025-04-03,Lunch,Veg Pulao
+2025-04-03,Dinner,Veg Biryani
+2025-04-04,Breakfast,Aloo Paratha
+2025-04-04,Lunch,Rajma Chawal
+2025-04-04,Dinner,Chole Bhature
+2025-04-05,Breakfast,Masala Dosa
+2025-04-05,Lunch,Dal Fry
+2025-04-05,Dinner,Chole Bhature
+2025-04-06,Breakfast,Idli‑Sambar
+2025-04-06,Lunch,Chicken Curry
+2025-04-06,Dinner,Kofta Curry
+2025-04-07,Breakfast,Aloo Paratha
+2025-04-07,Lunch,Rajma Chawal
+2025-04-07,Dinner,Chole Bhature
+2025-04-08,Breakfast,Idli‑Sambar
+2025-04-08,Lunch,Veg Pulao
+2025-04-08,Dinner,Chole Bhature
+2025-04-09,Breakfast,Idli‑Sambar
+2025-04-09,Lunch,Chicken Curry
+2025-04-09,Dinner,Egg Curry
+2025-04-10,Breakfast,Aloo Paratha
+2025-04-10,Lunch,Dal Fry
+2025-04-10,Dinner,Paneer Butter Masala
+2025-04-11,Breakfast,Masala Dosa
+2025-04-11,Lunch,Paneer Tikka
+2025-04-11,Dinner,Veg Biryani
+2025-04-12,Breakfast,Aloo Paratha
+2025-04-12,Lunch,Rajma Chawal
+2025-04-12,Dinner,Paneer Butter Masala
+2025-04-13,Breakfast,Masala Dosa
+2025-04-13,Lunch,Paneer Tikka
+2025-04-13,Dinner,Paneer Butter Masala
+2025-04-14,Breakfast,Pancakes
+2025-04-14,Lunch,Veg Pulao
+2025-04-14,Dinner,Chole Bhature
+2025-04-15,Breakfast,Poha
+2025-04-15,Lunch,Rajma Chawal
+2025-04-15,Dinner,Paneer Butter Masala
+2025-04-16,Breakfast,Pancakes
+2025-04-16,Lunch,Rajma Chawal
+2025-04-16,Dinner,Egg Curry
+2025-04-17,Breakfast,Idli‑Sambar
+2025-04-17,Lunch,Dal Fry
+2025-04-17,Dinner,Kofta Curry
+2025-04-18,Breakfast,Aloo Paratha
+2025-04-18,Lunch,Chicken Curry
+2025-04-18,Dinner,Kofta Curry
+2025-04-19,Breakfast,Pancakes
+2025-04-19,Lunch,Paneer Tikka
+2025-04-19,Dinner,Chole Bhature
+2025-04-20,Breakfast,Aloo Paratha
+2025-04-20,Lunch,Veg Pulao
+2025-04-20,Dinner,Paneer Butter Masala
+2025-04-21,Breakfast,Aloo Paratha
+2025-04-21,Lunch,Rajma Chawal
+2025-04-21,Dinner,Egg Curry
+2025-04-22,Breakfast,Idli‑Sambar
+2025-04-22,Lunch,Chicken Curry
+2025-04-22,Dinner,Egg Curry
+2025-04-23,Breakfast,Aloo Paratha
+2025-04-23,Lunch,Paneer Tikka
+2025-04-23,Dinner,Veg Biryani
+2025-04-24,Breakfast,Poha
+2025-04-24,Lunch,Chicken Curry
+2025-04-24,Dinner,Paneer Butter Masala
+2025-04-25,Breakfast,Pancakes
+2025-04-25,Lunch,Chicken Curry
+2025-04-25,Dinner,Kofta Curry
+2025-04-26,Breakfast,Idli‑Sambar
+2025-04-26,Lunch,Veg Pulao
+2025-04-26,Dinner,Egg Curry
+2025-04-27,Breakfast,Aloo Paratha
+2025-04-27,Lunch,Chicken Curry
+2025-04-27,Dinner,Kofta Curry
+2025-04-28,Breakfast,Poha
+2025-04-28,Lunch,Paneer Tikka
+2025-04-28,Dinner,Kofta Curry
+2025-04-29,Breakfast,Aloo Paratha
+2025-04-29,Lunch,Veg Pulao
+2025-04-29,Dinner,Kofta Curry
+2025-04-30,Breakfast,Pancakes
+2025-04-30,Lunch,Chicken Curry
+2025-04-30,Dinner,Paneer Butter Masala
+2025-05-01,Breakfast,Masala Dosa
+2025-05-01,Lunch,Veg Pulao
+2025-05-01,Dinner,Chole Bhature
+2025-05-02,Breakfast,Aloo Paratha
+2025-05-02,Lunch,Veg Pulao
+2025-05-02,Dinner,Kofta Curry
+2025-05-03,Breakfast,Idli‑Sambar
+2025-05-03,Lunch,Chicken Curry
+2025-05-03,Dinner,Kofta Curry
+2025-05-04,Breakfast,Poha
+2025-05-04,Lunch,Dal Fry
+2025-05-04,Dinner,Kofta Curry
+2025-05-05,Breakfast,Pancakes
+2025-05-05,Lunch,Chicken Curry
+2025-05-05,Dinner,Paneer Butter Masala
+2025-05-06,Breakfast,Idli‑Sambar
+2025-05-06,Lunch,Paneer Tikka
+2025-05-06,Dinner,Egg Curry
+2025-05-07,Breakfast,Pancakes
+2025-05-07,Lunch,Chicken Curry
+2025-05-07,Dinner,Veg Biryani
+2025-05-08,Breakfast,Poha
+2025-05-08,Lunch,Chicken Curry
+2025-05-08,Dinner,Paneer Butter Masala
+2025-05-09,Breakfast,Masala Dosa
+2025-05-09,Lunch,Dal Fry
+2025-05-09,Dinner,Veg Biryani
+2025-05-10,Breakfast,Pancakes
+2025-05-10,Lunch,Rajma Chawal
+2025-05-10,Dinner,Egg Curry
+2025-05-11,Breakfast,Aloo Paratha
+2025-05-11,Lunch,Rajma Chawal
+2025-05-11,Dinner,Veg Biryani
+2025-05-12,Breakfast,Aloo Paratha
+2025-05-12,Lunch,Rajma Chawal
+2025-05-12,Dinner,Veg Biryani
+2025-05-13,Breakfast,Aloo Paratha
+2025-05-13,Lunch,Paneer Tikka
+2025-05-13,Dinner,Egg Curry
+2025-05-14,Breakfast,Idli‑Sambar
+2025-05-14,Lunch,Rajma Chawal
+2025-05-14,Dinner,Veg Biryani
