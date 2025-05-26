@@ -31,11 +31,11 @@ function PowerCard({ hostel, power, anomaly, trend }) {
 }
 
 function App() {
-  const [data, setData] = useState([]);
+  const [data, setData]= useState([]);
 
   const fetchData = async () => {
     try {
-      const res = await axios.get("http://localhost:8000/dashboard-data");
+      const res= await axios.get(" ");
       setData(res.data.hostels);
     } catch (err) {
       console.error("Failed to fetch data", err);
@@ -48,11 +48,11 @@ function App() {
     return () => clearInterval(interval);
   }, []);
 
-  return (
+  return(
     <div className="container">
       <h1>Smart Campus Power Dashboard</h1>
       <div className="grid">
-        {data.map((hostel) => (
+        {data.map((hostel)=> (
           <PowerCard key={hostel.hostel} {...hostel} />
         ))}
       </div>

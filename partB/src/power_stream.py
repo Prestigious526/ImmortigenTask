@@ -16,7 +16,7 @@ def generate():
                 "kw": round(random.uniform(20, 120), 2)
             }
             try:
-                response = requests.post("http://localhost:8000/ingest", json=record)
+                response = requests.post("http://localhost:8000", json=record)
                 print(f"Sent: {record} → Status: {response.status_code}")
             except Exception as e:
                 print(f"Error sending to backend: {e}")
